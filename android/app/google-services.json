@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361515481593",
+    "project_id": "chat-kaito",
+    "storage_bucket": "chat-kaito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361515481593:android:ef7f3f92c1972d4cbda528",
+        "android_client_info": {
+          "package_name": "com.example.caht_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361515481593-nb3cgs7jb7tkh8u9au5cj2p3lr05epv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeb9G9KpN4owQmhMR9Bg98oNVAWcjnt6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361515481593-nb3cgs7jb7tkh8u9au5cj2p3lr05epv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
